@@ -1,0 +1,2 @@
+# Js-02-SMIT
+SMIT_JS _2
